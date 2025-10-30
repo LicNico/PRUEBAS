@@ -18,7 +18,7 @@ Presentador:
 Aquí empiezan a entrar breves clips o audios de miembros del equipo respondiendo preguntas. (Tú puedes meter después las respuestas reales).  
 Ejemplo:  
 - ¿Qué fue lo más complicado de esta etapa?
-- ¿Cómo les afectó el cambio de requerimientos?
+- ¿Cómo les afectó el cambio de scope en los departamentos de cada uno?
 - ¿Qué sintieron cuando un integrante se fue del equipo?
 
 **[DIALOGO]**  
